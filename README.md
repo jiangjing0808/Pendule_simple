@@ -1,5 +1,5 @@
 # Pendule_simple
-Le projet Math 2 d'anée 1.
+Le projet Math 2 d'anée 123432423.
 ---
 Coopérateurs:  
 
